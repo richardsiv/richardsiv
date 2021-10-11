@@ -1,0 +1,74 @@
+{
+  "Edificaciones_Venezuela": [
+    {
+      "id": 1,
+      "Edificacion": "Casa",
+      "Eleccion del emplazamiento": "Estado Trujillo",
+      "Orientacion": "Sur",
+      "Materiales": "Genericos de construccion",
+      "Longitud": "1200 metros",
+      "Cantidad": "20",
+      "Proyecto aprobado": true
+    },
+    {
+      "id": 2,
+      "Edificacion": "Edificios",
+      "Eleccion del emplazamiento": "Estado Zulia",
+      "Orientacion": "Sur",
+      "Materiales": "Genericos de construccion",
+      "Longitud": "2000 metros",
+      "Cantidad": "10",
+      "Proyecto aprobado": true
+    },
+    {
+      "id": 3,
+      "Edificacion": "Apartamentos",
+      "Eleccion del emplazamiento": "Estado Monagas",
+      "Orientacion": "Sur",
+      "Materiales": "Genericos de construccion",
+      "Longitud": "3000 metros",
+      "Cantidad": "30",
+      "Proyecto aprobado": true
+    },
+    {
+      "id": 4,
+      "Edificacion": "Carreteras",
+      "Eleccion del emplazamiento": "Estado Trujillo",
+      "Orientacion": "Sureste",
+      "Materiales": "Asfalto",
+      "Longitud": "20 kilometros",
+      "Cantidad": "1",
+      "Proyecto aprobado": false
+    },
+    {
+      "id": 5,
+      "Edificacion": "Puentes",
+      "Eleccion del emplazamiento": "Estado Zulia",
+      "Orientacion": "Noroeste",
+      "Materiales": "Genericos de construccion",
+      "Longitud": " 35,66  kilometros",
+      "Cantidad": "1",
+      "Proyecto aprobado": false
+    },
+    {
+      "id": 6,
+      "Edificacion": "Parques",
+      "Eleccion del emplazamiento": "Estado Trujillo",
+      "Orientacion": "Sur",
+      "Materiales": "Genericos de construccion",
+      "Longitud": " 35,66  kilometros",
+      "Cantidad": "1",
+      "Proyecto aprobado": false
+    },
+    {
+      "id": 7,
+      "Edificacion": "Zonas Comerciales",
+      "Eleccion del emplazamiento": "Distrito capital",
+      "Orientacion": "Sur",
+      "Materiales": "Genericos de construccion",
+      "Longitud": " 350000 metros",
+      "Cantidad": "1",
+      "Proyecto aprobado": true
+    }
+  ]
+}
